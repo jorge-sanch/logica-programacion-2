@@ -1,0 +1,14 @@
+.encabezado{
+    background-color: black;
+    color:aliceblue;
+    border: 1.3 em;
+    align-items: flex-end;
+}
+#imprimir{
+    color: red;
+}
+button:hover{
+    transform: scale(1.2);
+    background-color: black;
+    color: white;
+}
